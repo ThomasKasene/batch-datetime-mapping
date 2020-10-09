@@ -1,0 +1,4 @@
+logging.level.root: INFO
+
+# Don't run the batch until the test starts it manually
+spring.batch.job.enabled: false
